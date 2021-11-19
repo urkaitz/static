@@ -1,7 +1,7 @@
 RootCA.crt
 3
-0 172.26.40.45 Player0.crt developer@brokeldatashield.com
-1 172.26.40.47 Player1.crt participant1@brokeldatashield.com
-2 172.26.40.51 Player2.crt participant2@brokeldatashield.com
+0 172.26.40.45 Player0.crt 6107fac8-f876-4cf3-a64e-40f61471192c
+1 172.26.40.47 Player1.crt b71cda3e-72cc-472d-abb0-38cdf167a251
+2 172.26.40.51 Player2.crt 73117c1c-938f-4518-a938-1aa3a0e76303
 0
 0
