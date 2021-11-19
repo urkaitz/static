@@ -1,0 +1,7 @@
+RootCA.crt
+3
+0 172.26.40.51 Player0.crt developer@brokeldatashield.com
+1 172.26.40.45 Player1.crt participant1@brokeldatashield.com
+2 172.26.40.47 Player2.crt participant2@brokeldatashield.com
+0
+0
